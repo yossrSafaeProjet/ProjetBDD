@@ -1181,4 +1181,4 @@ INSERT INTO session_table (user_id, connected_at) VALUES (78, '2023-06-29 15:59:
 INSERT INTO session_table (user_id, connected_at) VALUES (48, '2023-06-11 23:15:20');
 INSERT INTO session_table (user_id, connected_at) VALUES (55, '2023-06-13 14:13:16');
 INSERT INTO session_table (user_id, connected_at) VALUES (37, '2023-06-25 06:28:43');
-INSERT INTO session_table (user_id, connected_at) VALUES (72, '2023-06-27 01:44:40');
+INSERT INTO session_table (user_id, connected_at) VALUES (72, '2023-06-27 01:44:40'); 
